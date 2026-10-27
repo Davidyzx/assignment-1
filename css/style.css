@@ -11,7 +11,7 @@ body {
 .quiz-container {
   background-color: white;
   padding: 20px;
-  width: 300px;
+  width: 280px;
   text-align: center;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
